@@ -37,7 +37,7 @@
     "@biomejs/biome": "2.5.15",
     "@cloudflare/workers-types": "5.20261010.1",
     "@resvg/resvg-js": "2.6.2",
-    "@types/chrome": "^0.1.0",
+    "@types/chrome": "^0.3.4",
     "@types/jsdom": "30.0.0",
     "@types/node": "^24.0.0",
     "@vitest/coverage-v8": "5.0.3",
